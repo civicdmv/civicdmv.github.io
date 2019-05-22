@@ -106,7 +106,7 @@ p {
 
 /* Icons */
 
-.icon .fa {
+.icon .fa, .icon .fab, .icon .fas, .icon .far {
   color: #5E519E;
   font-size: 75px;
   margin-bottom: 20px;
@@ -226,7 +226,7 @@ p {
 }
 .footer a, .footer a:visited, .footer {
 }
-.footer .fa {
+.footer .fa, .footer .fas, .footer .fab {
   font-size: 150%;
   margin-bottom: 20px;
   margin-left: 10px;
