@@ -216,6 +216,12 @@ p {
   }
 }
 
+/* Engage */
+
+.engage p {
+  font-size: 17px;
+}
+
 /* Footer */
 
 .footer {
@@ -241,7 +247,7 @@ p {
 /* Buttons */
 
 .btn {
-  font-size: 20px;
+  font-size: 15px;
 }
 a.btn-primary, .btn-primary, a.btn-primary:hover, .btn-primary:hover {
   color: #fff;
@@ -250,7 +256,7 @@ a.btn-primary, .btn-primary, a.btn-primary:hover, .btn-primary:hover {
   font-weight: 900;
   margin-bottom: 30px;
   margin-top: 30px;
-  padding: 15px;
+  padding: 10px;
   text-decoration: none;
 }
 a.btn-primary:hover, .btn-primary:hover {
