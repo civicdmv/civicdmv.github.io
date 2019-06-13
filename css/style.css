@@ -78,10 +78,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
 h2 {
-  font-size: 35px;
+  font-size: 30px;
 }
 h3 {
-  font-size: 25px;
+  font-size: 20px;
 }
 a, a:visited, a:hover {
 	color: #5E519E;
@@ -222,11 +222,31 @@ p {
   font-size: 17px;
 }
 
+/* Projects */
+
+.projects {
+  background-color: #5E519E;
+  margin-top: 30px;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+.projects, .projects a, .projects a:visited, .projects a:hover, .projects .fas, .projects .far {
+  color: #fff;
+}
+
+/* People */
+
+.people img {
+  border-radius: 50%;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  max-width: 100px;
+  width: 100%;
+}
+
 /* Footer */
 
 .footer {
-  border-top: 1px solid #f1f1f1;
-  margin-top: 40px;
 	padding-bottom: 40px;
 	padding-top: 40px;
 }
